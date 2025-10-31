@@ -1,4 +1,4 @@
-[[README.md](https://github.com/user-attachments/files/23260417/README.md)](https://github.com/archita-dedhia/SAKURA-INVENTORY_/new/main?readme=1)
+(https://github.com/archita-dedhia/SAKURA-INVENTORY_/new/main?readme=1)
 # Sakura Inventory Management System
 
 ## System Overview
