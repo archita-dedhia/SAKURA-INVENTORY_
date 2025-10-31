@@ -1,4 +1,3 @@
-(https://github.com/archita-dedhia/SAKURA-INVENTORY_/new/main?readme=1)
 # Sakura Inventory Management System
 
 ## System Overview
